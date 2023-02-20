@@ -1,2 +1,2 @@
 # super-octo-adventure
-Sample app for tutorial
+Sample app for tutorials
